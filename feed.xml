@@ -5,15 +5,63 @@
     <link>https://cdsco.gov.in/opencms/opencms/en/Committees/SEC/</link>
     <description>Automated RSS feed for CDSCO Subject Expert Committee (SEC) notifications and drug approval updates</description>
     <language>en-IN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:44:32 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:45:17 +0530</lastBuildDate>
     <ns0:link href="https://simpleman181.github.io/cdsco-sec-rss-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Recommendations of the SEC (Nephrology &amp; Urology) made in its 10th/26 meeting held on 13.10.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEzNg==</link>
+      <description>SEC Nephrology - Recommendations of the SEC (Nephrology &amp; Urology) made in its 10th/26 meeting held on 13.10.2026 at CDSCO HQ</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0530</pubDate>
+      <category>SEC Nephrology</category>
+      <guid isPermaLink="false">cdsco-sec-1-20261021</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Haematology) made in its 10th/26 meeting held on 13.10.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEzNw==</link>
+      <description>SEC Oncology and Hematology - Recommendations of the SEC (Haematology) made in its 10th/26 meeting held on 13.10.2026 at CDSCO HQ</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0530</pubDate>
+      <category>SEC Oncology and Hematology</category>
+      <guid isPermaLink="false">cdsco-sec-2-20261021</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Dermatology &amp; Allergy) made in its 10th/26 meeting held on 08.10.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEzNQ==</link>
+      <description>SEC Dermatology and Allergy - Recommendations of the SEC (Dermatology &amp; Allergy) made in its 10th/26 meeting held on 08.10.2026 at CDSCO HQ</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0530</pubDate>
+      <category>SEC Dermatology and Allergy</category>
+      <guid isPermaLink="false">cdsco-sec-3-20261021</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 22nd/26 meeting held on 23.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEzMw==</link>
+      <description>SEC Metabolism and Endocrinology - Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 22nd/26 meeting held on 23.09.2026 at CDSCO HQ</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0530</pubDate>
+      <category>SEC Metabolism and Endocrinology</category>
+      <guid isPermaLink="false">cdsco-sec-4-20261019</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Antimicrobial &amp; Antiparasitic) made in its 10th/26 meeting held on 08.10.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEzMQ==</link>
+      <description>SEC Antimicrobial, Antiparasitic, Antifungal and Antiviral - Recommendations of the SEC (Antimicrobial &amp; Antiparasitic) made in its 10th/26 meeting held on 08.10.2026 at CDSCO HQ</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0530</pubDate>
+      <category>SEC Antimicrobial, Antiparasitic, Antifungal and Antiviral</category>
+      <guid isPermaLink="false">cdsco-sec-5-20261019</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Oncology) made in its 25th/26 meeting held on 06.10.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEzMg==</link>
+      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 25th/26 meeting held on 06.10.2026 at CDSCO HQ</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0530</pubDate>
+      <category>SEC Oncology and Hematology</category>
+      <guid isPermaLink="false">cdsco-sec-6-20261019</guid>
+    </item>
     <item>
       <title>Recommendations of the SEC (Neurology and Psychiatry) made in its 11th/26 meeting held on 24.09.2026 at CDSCO HQ</title>
       <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEyOA==</link>
       <description>SEC Neurology and Psychiatry - Recommendations of the SEC (Neurology and Psychiatry) made in its 11th/26 meeting held on 24.09.2026 at CDSCO HQ</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0530</pubDate>
       <category>SEC Neurology and Psychiatry</category>
-      <guid isPermaLink="false">cdsco-sec-1-20261009</guid>
+      <guid isPermaLink="false">cdsco-sec-7-20261009</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Oncology) made in its 25th/26 meeting held on 29.09.2026 at CDSCO HQ</title>
@@ -21,7 +69,7 @@
       <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 25th/26 meeting held on 29.09.2026 at CDSCO HQ</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0530</pubDate>
       <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-2-20261008</guid>
+      <guid isPermaLink="false">cdsco-sec-8-20261008</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Nephrology &amp; Urology) made in its 09th/26 meeting held on 29.09.2026 at CDSCO HQ</title>
@@ -29,23 +77,7 @@
       <description>SEC Nephrology - Recommendations of the SEC (Nephrology &amp; Urology) made in its 09th/26 meeting held on 29.09.2026 at CDSCO HQ</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0530</pubDate>
       <category>SEC Nephrology</category>
-      <guid isPermaLink="false">cdsco-sec-3-20261008</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Neurology and Psychiatry) made in its 10th/26 meeting held on 16.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEyNA==</link>
-      <description>SEC Neurology and Psychiatry - Recommendations of the SEC (Neurology and Psychiatry) made in its 10th/26 meeting held on 16.09.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0530</pubDate>
-      <category>SEC Neurology and Psychiatry</category>
-      <guid isPermaLink="false">cdsco-sec-4-20261001</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Pulmonary) made in its 11th/26 meeting held on 23.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEyMw==</link>
-      <description>SEC Pulmonary - Recommendations of the SEC (Pulmonary) made in its 11th/26 meeting held on 23.09.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0530</pubDate>
-      <category>SEC Pulmonary</category>
-      <guid isPermaLink="false">cdsco-sec-5-20261001</guid>
+      <guid isPermaLink="false">cdsco-sec-9-20261008</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Oncology) made in its 24th/26 meeting held on 22.09.2026 at CDSCO HQ</title>
@@ -53,31 +85,23 @@
       <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 24th/26 meeting held on 22.09.2026 at CDSCO HQ</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0530</pubDate>
       <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-6-20261001</guid>
+      <guid isPermaLink="false">cdsco-sec-10-20261001</guid>
     </item>
     <item>
-      <title>Recommendations of the SEC (Reproductive) made in its 08th/26 meeting held on 17.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzExNw==</link>
-      <description>SEC REPRODUCTIVE and UROLOGY - Recommendations of the SEC (Reproductive) made in its 08th/26 meeting held on 17.09.2026 at CDSCO HQ</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0530</pubDate>
-      <category>SEC REPRODUCTIVE and UROLOGY</category>
-      <guid isPermaLink="false">cdsco-sec-7-20260929</guid>
+      <title>Recommendations of the SEC (Neurology and Psychiatry) made in its 10th/26 meeting held on 16.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEyNA==</link>
+      <description>SEC Neurology and Psychiatry - Recommendations of the SEC (Neurology and Psychiatry) made in its 10th/26 meeting held on 16.09.2026 at CDSCO HQ</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0530</pubDate>
+      <category>SEC Neurology and Psychiatry</category>
+      <guid isPermaLink="false">cdsco-sec-11-20261001</guid>
     </item>
     <item>
-      <title>Recommendations of the SEC (Analgesics, Anesthetics and Orthopedics) made in its 9th/26 meeting held on 10.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzExNg==</link>
-      <description>SEC Analgesics, Anesthetics &amp; Rheumatology - Recommendations of the SEC (Analgesics, Anesthetics and Orthopedics) made in its 9th/26 meeting held on 10.09.2026 at CDSCO HQ</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0530</pubDate>
-      <category>SEC Analgesics, Anesthetics &amp; Rheumatology</category>
-      <guid isPermaLink="false">cdsco-sec-8-20260929</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 21st/26 meeting held on 17.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzExNQ==</link>
-      <description>SEC Metabolism and Endocrinology - Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 21st/26 meeting held on 17.09.2026 at CDSCO HQ</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0530</pubDate>
-      <category>SEC Metabolism and Endocrinology</category>
-      <guid isPermaLink="false">cdsco-sec-9-20260929</guid>
+      <title>Recommendations of the SEC (Pulmonary) made in its 11th/26 meeting held on 23.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEyMw==</link>
+      <description>SEC Pulmonary - Recommendations of the SEC (Pulmonary) made in its 11th/26 meeting held on 23.09.2026 at CDSCO HQ</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0530</pubDate>
+      <category>SEC Pulmonary</category>
+      <guid isPermaLink="false">cdsco-sec-12-20261001</guid>
     </item>
     <item>
       <title>Minutes of the Meeting of Subject Expert Committee (SEC) - Vaccine to review proposals and advice Drugs Controller General (India) in matters for Biologicals &amp; PAC proposals held on 23.09.2026</title>
@@ -85,15 +109,31 @@
       <description>SEC vaccine section - Minutes of the Meeting of Subject Expert Committee (SEC) - Vaccine to review proposals and advice Drugs Controller General (India) in matters for Biologicals &amp; PAC proposals held on 23.09.2026</description>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0530</pubDate>
       <category>SEC vaccine section</category>
-      <guid isPermaLink="false">cdsco-sec-10-20260929</guid>
+      <guid isPermaLink="false">cdsco-sec-13-20260929</guid>
     </item>
     <item>
-      <title>Recommendations of the SEC (Haematology) made in its 09th/26 meeting held on 15.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzExMA==</link>
-      <description>SEC Oncology and Hematology - Recommendations of the SEC (Haematology) made in its 09th/26 meeting held on 15.09.2026 at CDSCO HQ</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0530</pubDate>
-      <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-11-20260923</guid>
+      <title>Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 21st/26 meeting held on 17.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzExNQ==</link>
+      <description>SEC Metabolism and Endocrinology - Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 21st/26 meeting held on 17.09.2026 at CDSCO HQ</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0530</pubDate>
+      <category>SEC Metabolism and Endocrinology</category>
+      <guid isPermaLink="false">cdsco-sec-14-20260929</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Analgesics, Anesthetics and Orthopedics) made in its 9th/26 meeting held on 10.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzExNg==</link>
+      <description>SEC Analgesics, Anesthetics &amp; Rheumatology - Recommendations of the SEC (Analgesics, Anesthetics and Orthopedics) made in its 9th/26 meeting held on 10.09.2026 at CDSCO HQ</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0530</pubDate>
+      <category>SEC Analgesics, Anesthetics &amp; Rheumatology</category>
+      <guid isPermaLink="false">cdsco-sec-15-20260929</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Reproductive) made in its 08th/26 meeting held on 17.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzExNw==</link>
+      <description>SEC REPRODUCTIVE and UROLOGY - Recommendations of the SEC (Reproductive) made in its 08th/26 meeting held on 17.09.2026 at CDSCO HQ</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0530</pubDate>
+      <category>SEC REPRODUCTIVE and UROLOGY</category>
+      <guid isPermaLink="false">cdsco-sec-16-20260929</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Ophthalmology) made in its 09th/26 meeting held on 16.09.2026 at CDSCO HQ</title>
@@ -101,7 +141,15 @@
       <description>SEC Ophthalmology - Recommendations of the SEC (Ophthalmology) made in its 09th/26 meeting held on 16.09.2026 at CDSCO HQ</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0530</pubDate>
       <category>SEC Ophthalmology</category>
-      <guid isPermaLink="false">cdsco-sec-12-20260923</guid>
+      <guid isPermaLink="false">cdsco-sec-17-20260923</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Haematology) made in its 09th/26 meeting held on 15.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzExMA==</link>
+      <description>SEC Oncology and Hematology - Recommendations of the SEC (Haematology) made in its 09th/26 meeting held on 15.09.2026 at CDSCO HQ</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0530</pubDate>
+      <category>SEC Oncology and Hematology</category>
+      <guid isPermaLink="false">cdsco-sec-18-20260923</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Gastroenterology and Hepatology) made in its 10th/26 meeting held on 15.09.2026 at CDSCO HQ</title>
@@ -109,31 +157,7 @@
       <description>SEC Gastroenterology and Hepatology - Recommendations of the SEC (Gastroenterology and Hepatology) made in its 10th/26 meeting held on 15.09.2026 at CDSCO HQ</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0530</pubDate>
       <category>SEC Gastroenterology and Hepatology</category>
-      <guid isPermaLink="false">cdsco-sec-13-20260923</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Oncology) made in its 23rd/26 meeting held on 09.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEwNg==</link>
-      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 23rd/26 meeting held on 09.09.2026 at CDSCO HQ</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0530</pubDate>
-      <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-14-20260918</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Cardiovascular) made in its 13th/26 meeting held on 08.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEwNw==</link>
-      <description>SEC Cardiology and Renal - Recommendations of the SEC (Cardiovascular) made in its 13th/26 meeting held on 08.09.2026 at CDSCO HQ</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0530</pubDate>
-      <category>SEC Cardiology and Renal</category>
-      <guid isPermaLink="false">cdsco-sec-15-20260918</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Dermatology &amp; Allergy) made in its 09th/26 meeting held on 10.09.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEwNQ==</link>
-      <description>SEC Dermatology and Allergy - Recommendations of the SEC (Dermatology &amp; Allergy) made in its 09th/26 meeting held on 10.09.2026 at CDSCO HQ</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0530</pubDate>
-      <category>SEC Dermatology and Allergy</category>
-      <guid isPermaLink="false">cdsco-sec-16-20260918</guid>
+      <guid isPermaLink="false">cdsco-sec-19-20260923</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Antimicrobial &amp; Antiparasitic) made in its 09th/26 meeting held on 10.09.2026 at CDSCO HQ</title>
@@ -141,7 +165,7 @@
       <description>SEC Antimicrobial, Antiparasitic, Antifungal and Antiviral - Recommendations of the SEC (Antimicrobial &amp; Antiparasitic) made in its 09th/26 meeting held on 10.09.2026 at CDSCO HQ</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0530</pubDate>
       <category>SEC Antimicrobial, Antiparasitic, Antifungal and Antiviral</category>
-      <guid isPermaLink="false">cdsco-sec-17-20260918</guid>
+      <guid isPermaLink="false">cdsco-sec-20-20260918</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 20th/26 meeting held on 08.09.2026 at CDSCO HQ</title>
@@ -149,15 +173,31 @@
       <description>SEC Metabolism and Endocrinology - Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 20th/26 meeting held on 08.09.2026 at CDSCO HQ</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0530</pubDate>
       <category>SEC Metabolism and Endocrinology</category>
-      <guid isPermaLink="false">cdsco-sec-18-20260918</guid>
+      <guid isPermaLink="false">cdsco-sec-21-20260918</guid>
     </item>
     <item>
-      <title>Recommendations of the SEC (Oncology) made in its 06th/26 meeting held on 25.02.2026 at CDSCO HQ 1</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA5Mw==</link>
-      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 06th/26 meeting held on 25.02.2026 at CDSCO HQ 1</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0530</pubDate>
+      <title>Recommendations of the SEC (Dermatology &amp; Allergy) made in its 09th/26 meeting held on 10.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEwNQ==</link>
+      <description>SEC Dermatology and Allergy - Recommendations of the SEC (Dermatology &amp; Allergy) made in its 09th/26 meeting held on 10.09.2026 at CDSCO HQ</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0530</pubDate>
+      <category>SEC Dermatology and Allergy</category>
+      <guid isPermaLink="false">cdsco-sec-22-20260918</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Cardiovascular) made in its 13th/26 meeting held on 08.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEwNw==</link>
+      <description>SEC Cardiology and Renal - Recommendations of the SEC (Cardiovascular) made in its 13th/26 meeting held on 08.09.2026 at CDSCO HQ</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0530</pubDate>
+      <category>SEC Cardiology and Renal</category>
+      <guid isPermaLink="false">cdsco-sec-23-20260918</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Oncology) made in its 23rd/26 meeting held on 09.09.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzEwNg==</link>
+      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 23rd/26 meeting held on 09.09.2026 at CDSCO HQ</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0530</pubDate>
       <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-19-20260910</guid>
+      <guid isPermaLink="false">cdsco-sec-24-20260918</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Haematology) made in its 08th/26 meeting held on 25.08.2026 at CDSCO HQ</title>
@@ -165,15 +205,7 @@
       <description>SEC Oncology and Hematology - Recommendations of the SEC (Haematology) made in its 08th/26 meeting held on 25.08.2026 at CDSCO HQ</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0530</pubDate>
       <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-20-20260910</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 19th/26 meeting held on 25.08.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA5OA==</link>
-      <description>SEC Metabolism and Endocrinology - Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 19th/26 meeting held on 25.08.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0530</pubDate>
-      <category>SEC Metabolism and Endocrinology</category>
-      <guid isPermaLink="false">cdsco-sec-21-20260910</guid>
+      <guid isPermaLink="false">cdsco-sec-25-20260910</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Oncology) made in its 22nd/26 meeting held on 25.08.2026 at CDSCO HQ</title>
@@ -181,7 +213,23 @@
       <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 22nd/26 meeting held on 25.08.2026 at CDSCO HQ</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0530</pubDate>
       <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-22-20260910</guid>
+      <guid isPermaLink="false">cdsco-sec-26-20260910</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 19th/26 meeting held on 25.08.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA5OA==</link>
+      <description>SEC Metabolism and Endocrinology - Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 19th/26 meeting held on 25.08.2026 at CDSCO HQ</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0530</pubDate>
+      <category>SEC Metabolism and Endocrinology</category>
+      <guid isPermaLink="false">cdsco-sec-27-20260910</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Oncology) made in its 06th/26 meeting held on 25.02.2026 at CDSCO HQ 1</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA5Mw==</link>
+      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 06th/26 meeting held on 25.02.2026 at CDSCO HQ 1</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0530</pubDate>
+      <category>SEC Oncology and Hematology</category>
+      <guid isPermaLink="false">cdsco-sec-28-20260910</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Neurology and Psychiatry) made in its 9th/26 meeting held on 20.08.2026 at CDSCO HQ</title>
@@ -189,7 +237,7 @@
       <description>SEC Neurology and Psychiatry - Recommendations of the SEC (Neurology and Psychiatry) made in its 9th/26 meeting held on 20.08.2026 at CDSCO HQ</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Neurology and Psychiatry</category>
-      <guid isPermaLink="false">cdsco-sec-23-20260828</guid>
+      <guid isPermaLink="false">cdsco-sec-29-20260828</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Cardiovascular) made in its 12th/26 meeting held on 20.08.2026 at CDSCO HQ</title>
@@ -197,7 +245,7 @@
       <description>SEC Cardiology and Renal - Recommendations of the SEC (Cardiovascular) made in its 12th/26 meeting held on 20.08.2026 at CDSCO HQ</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Cardiology and Renal</category>
-      <guid isPermaLink="false">cdsco-sec-24-20260828</guid>
+      <guid isPermaLink="false">cdsco-sec-30-20260828</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Veterinary) made in its 2nd/26 meeting held on 21.08.2026 at CDSCO HQ</title>
@@ -205,7 +253,7 @@
       <description>NA - Recommendations of the SEC (Veterinary) made in its 2nd/26 meeting held on 21.08.2026 at CDSCO HQ</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0530</pubDate>
       <category>NA</category>
-      <guid isPermaLink="false">cdsco-sec-25-20260828</guid>
+      <guid isPermaLink="false">cdsco-sec-31-20260828</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Nephrology &amp; Urology) made in its 08th/26 meeting held on 18.08.2026 at CDSCO HQ</title>
@@ -213,31 +261,7 @@
       <description>SEC Nephrology - Recommendations of the SEC (Nephrology &amp; Urology) made in its 08th/26 meeting held on 18.08.2026 at CDSCO HQ</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Nephrology</category>
-      <guid isPermaLink="false">cdsco-sec-26-20260827</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Pulmonary) made in its 10th/26 meeting held on 19.08.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA4Ng==</link>
-      <description>SEC Pulmonary - Recommendations of the SEC (Pulmonary) made in its 10th/26 meeting held on 19.08.2026 at CDSCO HQ</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0530</pubDate>
-      <category>SEC Pulmonary</category>
-      <guid isPermaLink="false">cdsco-sec-27-20260825</guid>
-    </item>
-    <item>
-      <title>Minutes of the Meeting of Subject Expert Committee (SEC) - Vaccine to review proposals and advice Drugs Controller General (India) in matters for Biologicals &amp; PAC proposals held on 24.08.2026</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA4Mw==</link>
-      <description>SEC vaccine section - Minutes of the Meeting of Subject Expert Committee (SEC) - Vaccine to review proposals and advice Drugs Controller General (India) in matters for Biologicals &amp; PAC proposals held on 24.08.2026</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0530</pubDate>
-      <category>SEC vaccine section</category>
-      <guid isPermaLink="false">cdsco-sec-28-20260825</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Ophthalmology) made in its 08th/26 meeting held on 19.08.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA4NQ==</link>
-      <description>SEC Ophthalmology - Recommendations of the SEC (Ophthalmology) made in its 08th/26 meeting held on 19.08.2026 at CDSCO HQ</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0530</pubDate>
-      <category>SEC Ophthalmology</category>
-      <guid isPermaLink="false">cdsco-sec-29-20260825</guid>
+      <guid isPermaLink="false">cdsco-sec-32-20260827</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Gastroenterology and Hepatology) made in its 10th/26 meeting held on 18.08.2026 at CDSCO HQ</title>
@@ -245,7 +269,23 @@
       <description>SEC Gastroenterology and Hepatology - Recommendations of the SEC (Gastroenterology and Hepatology) made in its 10th/26 meeting held on 18.08.2026 at CDSCO HQ</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Gastroenterology and Hepatology</category>
-      <guid isPermaLink="false">cdsco-sec-30-20260825</guid>
+      <guid isPermaLink="false">cdsco-sec-33-20260825</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Pulmonary) made in its 10th/26 meeting held on 19.08.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA4Ng==</link>
+      <description>SEC Pulmonary - Recommendations of the SEC (Pulmonary) made in its 10th/26 meeting held on 19.08.2026 at CDSCO HQ</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0530</pubDate>
+      <category>SEC Pulmonary</category>
+      <guid isPermaLink="false">cdsco-sec-34-20260825</guid>
+    </item>
+    <item>
+      <title>Minutes of the Meeting of Subject Expert Committee (SEC) - Vaccine to review proposals and advice Drugs Controller General (India) in matters for Biologicals &amp; PAC proposals held on 24.08.2026</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA4Mw==</link>
+      <description>SEC vaccine section - Minutes of the Meeting of Subject Expert Committee (SEC) - Vaccine to review proposals and advice Drugs Controller General (India) in matters for Biologicals &amp; PAC proposals held on 24.08.2026</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0530</pubDate>
+      <category>SEC vaccine section</category>
+      <guid isPermaLink="false">cdsco-sec-35-20260825</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Reproductive) made in its 07th/26 meeting held on 19.08.2026 at CDSCO HQ</title>
@@ -253,7 +293,15 @@
       <description>SEC REPRODUCTIVE and UROLOGY - Recommendations of the SEC (Reproductive) made in its 07th/26 meeting held on 19.08.2026 at CDSCO HQ</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC REPRODUCTIVE and UROLOGY</category>
-      <guid isPermaLink="false">cdsco-sec-31-20260825</guid>
+      <guid isPermaLink="false">cdsco-sec-36-20260825</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Ophthalmology) made in its 08th/26 meeting held on 19.08.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA4NQ==</link>
+      <description>SEC Ophthalmology - Recommendations of the SEC (Ophthalmology) made in its 08th/26 meeting held on 19.08.2026 at CDSCO HQ</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0530</pubDate>
+      <category>SEC Ophthalmology</category>
+      <guid isPermaLink="false">cdsco-sec-37-20260825</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Dermatology &amp; Allergy) made in its 08th/26 meeting held on 12.08.2026 at CDSCO HQ</title>
@@ -261,31 +309,7 @@
       <description>SEC Dermatology and Allergy - Recommendations of the SEC (Dermatology &amp; Allergy) made in its 08th/26 meeting held on 12.08.2026 at CDSCO HQ</description>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Dermatology and Allergy</category>
-      <guid isPermaLink="false">cdsco-sec-32-20260821</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Oncology) made in its 21th/26 meeting held on 12.08.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA4Mg==</link>
-      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 21th/26 meeting held on 12.08.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0530</pubDate>
-      <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-33-20260820</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Gastroenterology and Hepatology) made in its 09th/26 meeting held on 12.08.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA3Nw==</link>
-      <description>SEC Gastroenterology and Hepatology - Recommendations of the SEC (Gastroenterology and Hepatology) made in its 09th/26 meeting held on 12.08.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0530</pubDate>
-      <category>SEC Gastroenterology and Hepatology</category>
-      <guid isPermaLink="false">cdsco-sec-34-20260820</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Antimicrobial &amp; Antiparasitic) made in its 08th/26 meeting held on 11.08.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA3OA==</link>
-      <description>SEC Antimicrobial, Antiparasitic, Antifungal and Antiviral - Recommendations of the SEC (Antimicrobial &amp; Antiparasitic) made in its 08th/26 meeting held on 11.08.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0530</pubDate>
-      <category>SEC Antimicrobial, Antiparasitic, Antifungal and Antiviral</category>
-      <guid isPermaLink="false">cdsco-sec-35-20260820</guid>
+      <guid isPermaLink="false">cdsco-sec-38-20260821</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Analgesics, Anesthetics and Orthopedics) made in its 8th/26 meeting held on 11.08.2026 at CDSCO HQ</title>
@@ -293,23 +317,31 @@
       <description>SEC Analgesics, Anesthetics &amp; Rheumatology - Recommendations of the SEC (Analgesics, Anesthetics and Orthopedics) made in its 8th/26 meeting held on 11.08.2026 at CDSCO HQ</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Analgesics, Anesthetics &amp; Rheumatology</category>
-      <guid isPermaLink="false">cdsco-sec-36-20260820</guid>
+      <guid isPermaLink="false">cdsco-sec-39-20260820</guid>
     </item>
     <item>
-      <title>Recommendations of the SEC (Oncology) made in its 20th/26 meeting held on 05.08.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA3NA==</link>
-      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 20th/26 meeting held on 05.08.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0530</pubDate>
+      <title>Recommendations of the SEC (Gastroenterology and Hepatology) made in its 09th/26 meeting held on 12.08.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA3Nw==</link>
+      <description>SEC Gastroenterology and Hepatology - Recommendations of the SEC (Gastroenterology and Hepatology) made in its 09th/26 meeting held on 12.08.2026 at CDSCO HQ</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0530</pubDate>
+      <category>SEC Gastroenterology and Hepatology</category>
+      <guid isPermaLink="false">cdsco-sec-40-20260820</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Oncology) made in its 21th/26 meeting held on 12.08.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA4Mg==</link>
+      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 21th/26 meeting held on 12.08.2026 at CDSCO HQ</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-37-20260813</guid>
+      <guid isPermaLink="false">cdsco-sec-41-20260820</guid>
     </item>
     <item>
-      <title>Recommendations of the SEC (Radio-Diagnostic) made in its 2nd/26 meeting held on 06.08.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA3Mg==</link>
-      <description>SEC (Raio-Diagnostic) - Recommendations of the SEC (Radio-Diagnostic) made in its 2nd/26 meeting held on 06.08.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0530</pubDate>
-      <category>SEC (Raio-Diagnostic)</category>
-      <guid isPermaLink="false">cdsco-sec-38-20260813</guid>
+      <title>Recommendations of the SEC (Antimicrobial &amp; Antiparasitic) made in its 08th/26 meeting held on 11.08.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA3OA==</link>
+      <description>SEC Antimicrobial, Antiparasitic, Antifungal and Antiviral - Recommendations of the SEC (Antimicrobial &amp; Antiparasitic) made in its 08th/26 meeting held on 11.08.2026 at CDSCO HQ</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0530</pubDate>
+      <category>SEC Antimicrobial, Antiparasitic, Antifungal and Antiviral</category>
+      <guid isPermaLink="false">cdsco-sec-42-20260820</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Cardiovascular) made in its 11th/26 meeting held on 05.08.2026 at CDSCO HQ</title>
@@ -317,7 +349,15 @@
       <description>SEC Cardiology and Renal - Recommendations of the SEC (Cardiovascular) made in its 11th/26 meeting held on 05.08.2026 at CDSCO HQ</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Cardiology and Renal</category>
-      <guid isPermaLink="false">cdsco-sec-39-20260813</guid>
+      <guid isPermaLink="false">cdsco-sec-43-20260813</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Radio-Diagnostic) made in its 2nd/26 meeting held on 06.08.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA3Mg==</link>
+      <description>SEC (Raio-Diagnostic) - Recommendations of the SEC (Radio-Diagnostic) made in its 2nd/26 meeting held on 06.08.2026 at CDSCO HQ</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0530</pubDate>
+      <category>SEC (Raio-Diagnostic)</category>
+      <guid isPermaLink="false">cdsco-sec-44-20260813</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 18th/26 meeting held on 06.08.2026 at CDSCO HQ</title>
@@ -325,7 +365,15 @@
       <description>SEC Metabolism and Endocrinology - Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 18th/26 meeting held on 06.08.2026 at CDSCO HQ</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Metabolism and Endocrinology</category>
-      <guid isPermaLink="false">cdsco-sec-40-20260813</guid>
+      <guid isPermaLink="false">cdsco-sec-45-20260813</guid>
+    </item>
+    <item>
+      <title>Recommendations of the SEC (Oncology) made in its 20th/26 meeting held on 05.08.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA3NA==</link>
+      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 20th/26 meeting held on 05.08.2026 at CDSCO HQ</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0530</pubDate>
+      <category>SEC Oncology and Hematology</category>
+      <guid isPermaLink="false">cdsco-sec-46-20260813</guid>
     </item>
     <item>
       <title>Publication of advertisement for Notice Inviting Quotation (NIQ) for Supply of Chemicals and Standards at NTTL, Mumbai.</title>
@@ -333,15 +381,7 @@
       <description>NA - Publication of advertisement for Notice Inviting Quotation (NIQ) for Supply of Chemicals and Standards at NTTL, Mumbai.</description>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0530</pubDate>
       <category>NA</category>
-      <guid isPermaLink="false">cdsco-sec-41-20260807</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Neurology and Psychiatry) made in its 8th/26 meeting held on 28.07.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA2Mg==</link>
-      <description>SEC Neurology and Psychiatry - Recommendations of the SEC (Neurology and Psychiatry) made in its 8th/26 meeting held on 28.07.2026 at CDSCO HQ</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0530</pubDate>
-      <category>SEC Neurology and Psychiatry</category>
-      <guid isPermaLink="false">cdsco-sec-42-20260804</guid>
+      <guid isPermaLink="false">cdsco-sec-47-20260807</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Analgesics, Anesthetics and Orthopedics) made in its 7th/26 meeting held on 28.07.2026 at CDSCO HQ</title>
@@ -349,23 +389,15 @@
       <description>SEC Analgesics, Anesthetics &amp; Rheumatology - Recommendations of the SEC (Analgesics, Anesthetics and Orthopedics) made in its 7th/26 meeting held on 28.07.2026 at CDSCO HQ</description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0530</pubDate>
       <category>SEC Analgesics, Anesthetics &amp; Rheumatology</category>
-      <guid isPermaLink="false">cdsco-sec-43-20260804</guid>
+      <guid isPermaLink="false">cdsco-sec-48-20260804</guid>
     </item>
     <item>
-      <title>Recommendations of the SEC (Oncology) made in its 19th/26 meeting held on 21.07.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA1OQ==</link>
-      <description>SEC Oncology and Hematology - Recommendations of the SEC (Oncology) made in its 19th/26 meeting held on 21.07.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0530</pubDate>
-      <category>SEC Oncology and Hematology</category>
-      <guid isPermaLink="false">cdsco-sec-44-20260730</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Cardiovascular) made in its 10th/26 meeting held on 22.07.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA1OA==</link>
-      <description>SEC Cardiology and Renal - Recommendations of the SEC (Cardiovascular) made in its 10th/26 meeting held on 22.07.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0530</pubDate>
-      <category>SEC Cardiology and Renal</category>
-      <guid isPermaLink="false">cdsco-sec-45-20260730</guid>
+      <title>Recommendations of the SEC (Neurology and Psychiatry) made in its 8th/26 meeting held on 28.07.2026 at CDSCO HQ</title>
+      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA2Mg==</link>
+      <description>SEC Neurology and Psychiatry - Recommendations of the SEC (Neurology and Psychiatry) made in its 8th/26 meeting held on 28.07.2026 at CDSCO HQ</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0530</pubDate>
+      <category>SEC Neurology and Psychiatry</category>
+      <guid isPermaLink="false">cdsco-sec-49-20260804</guid>
     </item>
     <item>
       <title>Recommendations of the SEC (Neurology and Psychiatry) made in its 7th/26 meeting held on 22.07.2026 at CDSCO HQ</title>
@@ -373,39 +405,7 @@
       <description>SEC Neurology and Psychiatry - Recommendations of the SEC (Neurology and Psychiatry) made in its 7th/26 meeting held on 22.07.2026 at CDSCO HQ</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0530</pubDate>
       <category>SEC Neurology and Psychiatry</category>
-      <guid isPermaLink="false">cdsco-sec-46-20260730</guid>
-    </item>
-    <item>
-      <title>Minutes of the Meeting of Subject Expert Committee (SEC) - Vaccine to review proposals and advice Drugs Controller General (India) in matters for Biologicals &amp; PAC proposals held on 28.07.2026</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA1Nw==</link>
-      <description>SEC vaccine section - Minutes of the Meeting of Subject Expert Committee (SEC) - Vaccine to review proposals and advice Drugs Controller General (India) in matters for Biologicals &amp; PAC proposals held on 28.07.2026</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0530</pubDate>
-      <category>SEC vaccine section</category>
-      <guid isPermaLink="false">cdsco-sec-47-20260729</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 17th/26 meeting held on 16.07.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA1NA==</link>
-      <description>SEC Metabolism and Endocrinology - Recommendations of the SEC (Endocrinology &amp; Metabolism) made in its 17th/26 meeting held on 16.07.2026 at CDSCO HQ</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0530</pubDate>
-      <category>SEC Metabolism and Endocrinology</category>
-      <guid isPermaLink="false">cdsco-sec-48-20260724</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Ophthalmology) made in its 07th/26 meeting held on 15.07.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA1NQ==</link>
-      <description>SEC Ophthalmology - Recommendations of the SEC (Ophthalmology) made in its 07th/26 meeting held on 15.07.2026 at CDSCO HQ</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0530</pubDate>
-      <category>SEC Ophthalmology</category>
-      <guid isPermaLink="false">cdsco-sec-49-20260724</guid>
-    </item>
-    <item>
-      <title>Recommendations of the SEC (Nephrology &amp; Urology) made in its 07th/26 meeting held on 14.07.2026 at CDSCO HQ</title>
-      <link>https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MzA1Mw==</link>
-      <description>SEC Nephrology - Recommendations of the SEC (Nephrology &amp; Urology) made in its 07th/26 meeting held on 14.07.2026 at CDSCO HQ</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0530</pubDate>
-      <category>SEC Nephrology</category>
-      <guid isPermaLink="false">cdsco-sec-50-20260723</guid>
+      <guid isPermaLink="false">cdsco-sec-50-20260730</guid>
     </item>
   </channel>
 </rss>
